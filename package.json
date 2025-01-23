@@ -1,0 +1,27 @@
+{
+  "name": "2.node",
+  "version": "1.0.0",
+  "description": "dz2.node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoliker/Auto.web-dz2.node.git"
+  },
+  "keywords": [
+    "hmw"
+  ],
+  "author": "Yuliya Belodub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yoliker/Auto.web-dz2.node/issues"
+  },
+  "homepage": "https://github.com/Yoliker/Auto.web-dz2.node#readme",
+  "devDependencies": {
+    "eslint": "^9.18.0",
+    "eslint-plugin-prettier": "^5.2.3",
+    "prettier": "^3.4.2"
+  }
+}
