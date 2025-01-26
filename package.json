@@ -4,7 +4,7 @@
   "description": "dz2.node",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "eslint"
   },
   "repository": {
     "type": "git",
@@ -20,8 +20,10 @@
   },
   "homepage": "https://github.com/Yoliker/Auto.web-dz2.node#readme",
   "devDependencies": {
-    "eslint": "^9.18.0",
+    "@eslint/js": "^9.19.0",
+    "eslint": "^9.19.0",
     "eslint-plugin-prettier": "^5.2.3",
+    "globals": "^15.14.0",
     "prettier": "^3.4.2"
   }
 }
